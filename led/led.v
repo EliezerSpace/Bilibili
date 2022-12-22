@@ -1,6 +1,6 @@
 /*
-	Prj name    : led
-	Description : Pattern water lamp
+	Prj name    	: led
+	Description 	: Pattern water lamp
 	Author		: Must__
 	Date		: 2022 / 5 / 15
 */
