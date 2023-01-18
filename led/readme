@@ -1,8 +1,0 @@
-这个代码是B站视频花样流水灯中的代码
-B站视频链接
-https://www.bilibili.com/video/BV1mY411c7RX/?spm_id_from=333.999.0.0&vd_source=b712a3bad59f0608d305695f96fd9910
-
-文件目录如下
---------led
-    ----led.v     源代码
-    ----tb_led.v  仿真代码
